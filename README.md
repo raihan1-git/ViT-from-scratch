@@ -40,5 +40,5 @@ Training Vision Transformers from scratch on small datasets (without ImageNet pr
 
 ### Running via Google Colab
 The easiest way to explore the code and train the models is through the provided Google Colab notebooks:
-* [🔗 Train ViT on CIFAR-10](Insert_Your_Colab_Link_Here)
+* [🔗 Train ViT on CIFAR-10](https://colab.research.google.com/drive/19WmCIYdphZx7axi1R4WLeAQWPD7ivjT8?usp=sharing)
 
